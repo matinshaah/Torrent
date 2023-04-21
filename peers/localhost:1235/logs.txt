@@ -1,0 +1,35 @@
+asking for file file1.txt
+data received from server:
+"['localhost:1234']"
+
+Making connection to peer "localhost:1234" to get file file1.txt...
+file file1.txt downloaded successfully, closing socket ...
+sharing file file1.txt
+asking for file file1.txt
+data received from server:
+"['localhost:1234']"
+
+Making connection to peer "localhost:1234" to get file file1.txt...
+file file1.txt downloaded successfully, closing socket ...
+sharing file file1.txt
+asking for file file1.txt
+data received from server:
+"['localhost:1234']"
+
+Making connection to peer "localhost:1234" to get file file1.txt...
+file file1.txt downloaded successfully, closing socket ...
+sharing file file1.txt
+waiting for connection
+asking for file file1.txt
+data received from server:
+"['localhost:1234']"
+
+Making connection to peer "localhost:1234" to get file file1.txt...
+file file1.txt downloaded successfully, closing socket ...
+sharing file file1.txt
+waiting for connection
+sharing file file2.txt
+waiting for connection
+waiting for connection
+sending file file2.txt to peer ('127.0.0.1', 40898)
+file file2.txt sent successfully

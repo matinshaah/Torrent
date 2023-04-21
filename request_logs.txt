@@ -1,0 +1,17 @@
+Peer localhost:1234 shared file1.txt, peers having this file: {files_data[file_name]}
+Peer localhost:1234 shared file1.txt, peers having this file: {files_data[file_name]}
+Peer localhost:1234 shared file1.txt, peers having this file: {files_data[file_name]}
+Peer localhost:1234 shared file1.txt, peers having this file: {files_data[file_name]}
+Peer localhost:1235 asked for file1.txt, peers having this file: {files_data[file_name]}
+Peer localhost:1235 shared file1.txt, peers having this file: {files_data[file_name]}
+Peer localhost:123 asked for file1.txt, peers having this file: {files_data[file_name]}
+Peer localhost:123 shared file1.txt, peers having this file: {files_data[file_name]}
+Peer localhost:1234 shared file1.txt, peers having this file: {files_data[file_name]}
+Peer localhost:1235 asked for file1.txt, peers having this file: {files_data[file_name]}
+Peer localhost:1235 shared file1.txt, peers having this file: {files_data[file_name]}
+Peer localhost:1235 shared file2.txt, peers having this file: {files_data[file_name]}
+Peer localhost:6666 asked for file2.txt, peers having this file: {files_data[file_name]}
+Peer localhost:6666 shared file2.txt, peers having this file: {files_data[file_name]}
+Peer localhost:1234 shared flash.mkv, peers having this file: {files_data[file_name]}
+Peer localhost:9999 asked for flash.mkv, peers having this file: {files_data[file_name]}
+Peer localhost:9999 shared flash.mkv, peers having this file: {files_data[file_name]}

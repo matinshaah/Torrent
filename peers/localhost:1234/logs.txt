@@ -1,0 +1,26 @@
+waiting for connection
+sending file file1.txt to peer ('127.0.0.1', 47838)
+file file1.txt sent successfully
+sharing file file1.txt
+waiting for connection
+waiting for connection
+sending file file1.txt to peer ('127.0.0.1', 40240)
+file file1.txt sent successfully
+sharing file file1.txt
+waiting for connection
+sending file file1.txt to peer ('127.0.0.1', 59138)
+waiting for connection
+file file1.txt sent successfully
+waiting for connection
+sending file file1.txt to peer ('127.0.0.1', 50430)
+file file1.txt sent successfully
+sharing file file1.txt
+waiting for connection
+waiting for connection
+sending file file1.txt to peer ('127.0.0.1', 49570)
+file file1.txt sent successfully
+sharing file flash.mkv
+waiting for connection
+waiting for connection
+sending file flash.mkv to peer ('127.0.0.1', 50504)
+file flash.mkv sent successfully
